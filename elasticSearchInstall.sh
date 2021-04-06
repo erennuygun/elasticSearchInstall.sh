@@ -18,7 +18,7 @@ read dinle
 if [ $dinle == "K" ]; then
         wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.9.1-amd64.deb
         ls
-        echo "Package Downlaoded."
+        echo "Package downloaded."
         echo -e "\n"
         echo "######################################"
         echo -e "\n"
